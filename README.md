@@ -1,6 +1,7 @@
 # Excel-Calculations
 Base implementation for integration with Thales existing Thales systems.
 
+## Usage
 For use with excel document with pre-inserted data.
 
 ## License
